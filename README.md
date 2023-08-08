@@ -4,7 +4,7 @@
     <title>InfySkill portfolio</title>
     <!-- Linking CSS file to our HTML page -->
 <!--    <link rel="stylesheet" href="styles.css"> -->
-  <scprit>
+  <style>
     table {
     width: 100%;
     border-collapse: collapse;
@@ -82,7 +82,7 @@ li{
 td {
     font-weight: bold;
 }
-  </scprit>
+  </style>
 </head>
  
 <body>
